@@ -1,0 +1,1 @@
+Creates a simple node implementation of a stack and queue
